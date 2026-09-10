@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.2.0"
   latestRelease: "v4.2.0"
   latestPrerelease: "v4.0.0-beta03"
-  collectedAt: 2026-09-10T06:01:24Z
+  collectedAt: 2026-09-10T20:38:29Z
 timeline:
   created: 2012-05-14
   lastCommit: 2026-01-13
@@ -88,7 +88,7 @@ total:
   commit: 3072
 ---
 path: /home/runner/.x-repo/github.com/fosskers/aura
-collectedAt: 2026-09-10T06:01:28Z
+collectedAt: 2026-09-10T20:38:32Z
 loc:
   Rust:
     code: 7302

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 955266,
       "digest": "sha256:429a899367cdef4e6e8b37fb041d74ab1c3041c9bcffe2f867f7bbae45a21f93",
-      "download_count": 2700,
+      "download_count": 2703,
       "created_at": "2026-01-14T21:46:56Z",
       "updated_at": "2026-01-14T21:47:00Z",
       "browser_download_url": "https://github.com/fosskers/aura/releases/download/v4.2.0/aura-4.2.0-x86_64.tar.gz"

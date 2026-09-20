@@ -4,7 +4,7 @@
 
 A multilingual package manager for Arch Linux and the AUR.
 
-![aura](https://repo.x-cmd.io/aura.svg)
+[![x-cmd/install — aura Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aura.svg)](https://x-cmd.com/install/aura)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 1 | 1 | 2 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 1 | 2 | 4 | 0 |
-| 360d | 2025-09-23 | 2 | 5 | 4 | 10 | 7 | 19 |
-| last720d | 2024-09-28 | 3 | 10 | 4 | 26 | 33 | 44 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 1 | 1 | 2 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 1 | 2 | 4 | 0 |
+| 360d | 2025-09-25 | 2 | 5 | 4 | 10 | 7 | 19 |
+| last720d | 2024-09-30 | 2 | 10 | 4 | 25 | 33 | 37 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for aura lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:17:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:59:06Z._

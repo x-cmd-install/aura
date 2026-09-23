@@ -4,7 +4,7 @@
 
 A multilingual package manager for Arch Linux and the AUR.
 
-[![x-cmd/install — aura Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aura.svg)](https://x-cmd.com/install/aura)
+[![x-cmd/install — aura Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/aura.svg)](https://x-cmd.com/install/aura)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **20,289** lines of code across **115** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Code-Review** (3/10) — Found 8/24 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (2/10) — 0 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 2
+- **Code-Review** (3/10) — Found 8/24 approved changesets -- score normalized to 3
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 1 | 1 | 2 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 1 | 2 | 4 | 0 |
-| 360d | 2025-09-27 | 2 | 5 | 4 | 9 | 7 | 19 |
-| last720d | 2024-10-02 | 2 | 10 | 4 | 24 | 33 | 37 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 1 | 1 | 2 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 1 | 2 | 4 | 0 |
+| 360d | 2025-09-28 | 2 | 5 | 4 | 9 | 7 | 19 |
+| last720d | 2024-10-03 | 2 | 10 | 4 | 24 | 33 | 37 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for aura lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:07:40Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:21:08Z._

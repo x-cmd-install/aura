@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 297 · **Open PRs**: 4 · **Closed issues**: 584 · **Open issues**: 60 · **Commits**: 3072
+- **Releases**: 54 · **Merged PRs**: 297 · **Open PRs**: 5 · **Closed issues**: 584 · **Open issues**: 60 · **Commits**: 3072
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-27 | 0 | 0 | 1 | 2 | 4 | 0 |
-| 360d | 2025-10-29 | 2 | 5 | 4 | 8 | 6 | 19 |
-| last720d | 2024-11-03 | 2 | 10 | 4 | 23 | 24 | 37 |
+| 30d | 2026-09-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-27 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-28 | 0 | 0 | 2 | 2 | 4 | 0 |
+| 360d | 2025-10-30 | 2 | 5 | 5 | 8 | 6 | 19 |
+| last720d | 2024-11-04 | 2 | 10 | 5 | 23 | 24 | 37 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for aura lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:30:48Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:33:09Z._
